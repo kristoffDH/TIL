@@ -7,5 +7,6 @@
   * [4. for/while \~ else](README/4.-for-while-else.md)
   * [5. 디폴트 인자](README/5..md)
   * [6. 딕셔너리에서 키가 없을 때 처리](README/6..md)
+  * [7. 매직 메서드](README/7..md)
   * [Page](README/page.md)
 * [ETC](etc.md)
