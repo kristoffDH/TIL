@@ -14,4 +14,5 @@
   * [11. Itertools 정리](README/11.-itertools.md)
   * [12. Asterisk(\*) 사용팁](README/12.-asterisk.md)
   * [Page](README/page.md)
+* [Fast API](fast-api.md)
 * [ETC](etc.md)
