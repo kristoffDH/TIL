@@ -18,5 +18,6 @@
   * [15. pip를 이용한 모듈 설치 및 버전 백업](README/15.-pip.md)
   * [16. subprocess](README/16.-subprocess.md)
   * [Page](README/page.md)
-* [Fast API](fast-api.md)
+* [Fast API](fast-api/README.md)
+  * [1. API Router](fast-api/1.-api-router.md)
 * [ETC](etc.md)
