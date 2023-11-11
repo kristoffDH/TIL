@@ -19,5 +19,6 @@
   * [16. subprocess](README/16.-subprocess.md)
   * [Page](README/page.md)
 * [Fast API](fast-api/README.md)
-  * [1. API Router](fast-api/1.-api-router.md)
+  * [1. uvicorn](fast-api/1.-uvicorn.md)
+  * [2. API Router](fast-api/2.-api-router.md)
 * [ETC](etc.md)
