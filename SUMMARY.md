@@ -21,4 +21,5 @@
 * [Fast API](fast-api/README.md)
   * [1. uvicorn](fast-api/1.-uvicorn.md)
   * [2. API Router](fast-api/2.-api-router.md)
+  * [3.  Error 처리](fast-api/3.-error.md)
 * [ETC](etc.md)
