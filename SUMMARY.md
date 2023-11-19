@@ -23,7 +23,7 @@
   * [1. uvicorn](fast-api/1.-uvicorn.md)
   * [2. API Router](fast-api/2.-api-router.md)
   * [3. Error 처리](fast-api/3.-error.md)
-  * [4. API 테스트 (Pytest)](fast-api/4.-api-pytest.md)
+  * [4. API 테스트](fast-api/4.-api.md)
   * [5. 유닛 테스트](fast-api/5..md)
   * [End](fast-api/end.md)
 * [ETC](etc.md)
