@@ -20,7 +20,7 @@
   * [17. 함수와 메서드 차이](README/17..md)
   * [End](README/end.md)
 * [Python Test](python-test/README.md)
-  * [1. Pytest](python-test/1.-pytest.md)
+  * [1. pytest 기본](python-test/1.-pytest.md)
   * [2. Pytest - fixture](python-test/2.-pytest-fixture.md)
   * [3.](python-test/3..md)
   * [End](python-test/end.md)
