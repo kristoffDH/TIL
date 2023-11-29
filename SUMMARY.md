@@ -22,7 +22,7 @@
 * [Python Test](python-test/README.md)
   * [1. pytest 기본](python-test/1.-pytest.md)
   * [2. pytest mock](python-test/2.-pytest-mock.md)
-  * [. Pytest - fixture](python-test/.-pytest-fixture.md)
+  * [pytest - mocker.patch만 있음.  Mocker()나 MagicMock 관련해서 정리가 필요](python-test/pytest-mocker.patch-.-mocker-magicmock.md)
   * [3.](python-test/3..md)
   * [End](python-test/end.md)
 * [Fast API](fast-api/README.md)
