@@ -1,4 +1,4 @@
-# 4. API 테스트 (Pytest)
+# ---
 
 API를 개발하고 처음에는 Postman을 이용해 테스트를 진행했다. postman에서 스크립트를 작성한 후, csv 파일을 읽어서 연속 테스트도 진행을 했다. 테스트 진행하다 보니, 예외를 테스트 하고 결과 값을 확인하는 부분에서 힘든 부분이 있었다.
 
@@ -37,9 +37,7 @@ engine = create_engine(SQLALCHEMY_DATABASE_URL)
 TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 ```
 
-### pytest.fixture를 이용한 세션 및 클라이언트 생성
 
-fixture란 테스팅을 하는데 있어서 필요한 부분들을 혹은 조건들을 미리 준비해놓은 리소스 혹은 코드이다. 테스트에서  사용하게 될 코드들이나 미리 생성하거나 설정하기 위해서 사용하는 걸로 이해했다.&#x20;
 
 #### 테스트용 DB session 생성
 
@@ -77,29 +75,6 @@ def client(session):
 
     yield TestClient(app)
 ```
-
-### pytst.fixture
-
-pytest.fixture 데코레이터를 이용해 함수를 작성하면 테스트 함수에 인자로 넣을 수 있는 함수가 된다.
-
-#### scope
-
-scope는 fixture가 실행되는 범위에 대해 정의한다. 설정한 scope 단위로 fixture는 한 번만 생성되고 계속 재사용되기 때문에 적절한 범위 설정이 필요하다.
-
-총 5개의 scope이 있으며, 범위의 크기는 다음과 같다.\
-function(default) < class < module < package < session
-
-* `@pytest.fixture(scope="function")` : 함수 단위로 1회 생성(디폴트 설정으로, `@pytest.fixture` 와 같다.)
-* `@pytest.fixture(scope="class")` : fixture가 클래스 단위로 1회 생성됨
-* `@pytest.fixture(scope="module")` : fixture가 파일 단위로 1회 생성됨
-* `@pytest.fixture(scope="package")` : fixture가 패키지 단위로 1회 생성됨
-* `@pytest.fixture(scope="session")` : fixture가 test session동안 1회 생성됨
-
-하나의 fixture 함수에서 다른 fixture 함수를 선언할 때, 범위의 크기에 맞지 않게 fixture를 선언하면(ex. function scope의 fixture 함수에 session scope의 fixture 함수 선언), scope 충돌이 발생하여 ScopeMismatch 오류가 발생한다.
-
-#### autouse
-
-`autouse=True`로 설정하면, 별도 요청 없이 모든 테스트 함수에서 해당 fixture를 사용할 수 있다. 예를 들어, hook 함수에서 다른 파일의 fixture를 사용해야 하는 경우, 해당 fixture에 @pytest.fixture 인자로 `autouse=True`를 사용하면, hook 함수에서 해당 fixture를 인식할 수 있다.
 
 ### 설정 파일의 전체 코드
 
