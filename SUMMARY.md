@@ -30,7 +30,7 @@
   * [2. API Router](fast-api/2.-api-router.md)
   * [3. Error 처리](fast-api/3.-error.md)
   * [4. Depends](fast-api/4.-depends.md)
-  * [5. OAuth](fast-api/5.-oauth.md)
+  * [5. OAuth2](fast-api/5.-oauth2.md)
   * [6. JWT](fast-api/6.-jwt.md)
   * [End](fast-api/end.md)
 * [REDIS](redis.md)
