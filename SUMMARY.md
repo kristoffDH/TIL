@@ -32,5 +32,6 @@
   * [4. Depends](fast-api/4.-depends.md)
   * [5. OAuth2](fast-api/5.-oauth2.md)
   * [6. JWT](fast-api/6.-jwt.md)
+  * [7. SQLAlchemy](fast-api/7.-sqlalchemy.md)
   * [End](fast-api/end.md)
 * [REDIS](redis.md)
