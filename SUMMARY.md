@@ -23,7 +23,7 @@
   * [1. pytest 기본](python-test/1.-pytest.md)
   * [2. pytest mock](python-test/2.-pytest-mock.md)
   * [3.](python-test/3..md)
-  * [---](python-test/undefined.md)
+  * [pytest에서 테스트 db를 이용한 테스트](python-test/pytest-db.md)
   * [End](python-test/end.md)
 * [Fast API](fast-api/README.md)
   * [1. uvicorn](fast-api/1.-uvicorn.md)
