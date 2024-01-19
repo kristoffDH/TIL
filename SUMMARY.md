@@ -39,4 +39,3 @@
   * [6. JWT](fast-api/6.-jwt.md)
   * [7. SQLAlchemy](fast-api/7.-sqlalchemy.md)
   * [End](fast-api/end.md)
-* [REDIS](redis.md)
