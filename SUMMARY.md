@@ -40,3 +40,7 @@
   * [6. JWT](fast-api/6.-jwt.md)
   * [7. SQLAlchemy](fast-api/7.-sqlalchemy.md)
   * [End](fast-api/end.md)
+* [Algorithm](algorithm/README.md)
+  * [1.](algorithm/1..md)
+  * [2.석유 시추](algorithm/2..md)
+  * [End](algorithm/end.md)
