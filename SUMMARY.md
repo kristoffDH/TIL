@@ -42,5 +42,6 @@
   * [End](fast-api/end.md)
 * [Algorithm](algorithm/README.md)
   * [1.](algorithm/1..md)
-  * [2.석유 시추](algorithm/2..md)
+  * [2. 석유 시추](algorithm/2..md)
+  * [3. 타겟 넘버](algorithm/3..md)
   * [End](algorithm/end.md)
