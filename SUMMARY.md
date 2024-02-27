@@ -46,4 +46,5 @@
   * [3. 타겟 넘버](algorithm/3..md)
   * [4. 게임 맵 최단거리](algorithm/4..md)
   * [5. 네트워크](algorithm/5..md)
+  * [6. 여행 경로](algorithm/6..md)
   * [End](algorithm/end.md)
