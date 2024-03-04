@@ -49,4 +49,5 @@
   * [6. 여행 경로](algorithm/6..md)
   * [7. 프로세스](algorithm/7..md)
   * [8. 붕대감기](algorithm/8..md)
+  * [9. K진수에서 소수 구하기](algorithm/9.-k.md)
   * [End](algorithm/end.md)
