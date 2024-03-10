@@ -51,5 +51,6 @@
   * [8. 붕대감기](algorithm/8..md)
   * [9. K진수에서 소수 구하기](algorithm/9.-k.md)
   * [10. 올바른 괄호](algorithm/10..md)
-  * [11.](algorithm/11..md)
+  * [11. 숫자 블록](algorithm/11..md)
+  * [12. 124 나라의 숫자](algorithm/12.-124.md)
   * [End](algorithm/end.md)
