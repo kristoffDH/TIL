@@ -54,4 +54,6 @@
   * [11. 숫자 블록](algorithm/11..md)
   * [12. 124 나라의 숫자](algorithm/12.-124.md)
   * [13. 줄서는 방법](algorithm/13..md)
+  * [14. N개의 최소공배수](algorithm/14.-n.md)
+  * [Page](algorithm/page.md)
   * [End](algorithm/end.md)
