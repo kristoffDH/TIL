@@ -57,5 +57,6 @@
   * [14. N개의 최소공배수](algorithm/14.-n.md)
   * [15. 줄 서는 방법](algorithm/15..md)
   * [16. 숫자의 표현](algorithm/16..md)
+  * [17. 2 X N 타일링](algorithm/17.-2-x-n.md)
   * [Page](algorithm/page.md)
   * [End](algorithm/end.md)
