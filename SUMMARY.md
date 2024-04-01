@@ -60,5 +60,6 @@
   * [17. 2 X N 타일링](algorithm/17.-2-x-n.md)
   * [18. 영어 끝말잇기](algorithm/18..md)
   * [19. 행렬의 곱셈](algorithm/19..md)
+  * [20. N개의 최소공배수](algorithm/20.-n.md)
   * [Page](algorithm/page.md)
   * [End](algorithm/end.md)
