@@ -63,5 +63,6 @@
   * [20. N개의 최소공배수](algorithm/20.-n.md)
   * [21. 더 맵게](algorithm/21..md)
   * [22. 의상](algorithm/22..md)
+  * [23. 전화번호 목록](algorithm/23..md)
   * [Page](algorithm/page.md)
   * [End](algorithm/end.md)
