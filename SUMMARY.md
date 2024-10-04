@@ -31,7 +31,7 @@
   * [3.](python-test/3..md)
   * [pytest에서 테스트 db를 이용한 테스트](python-test/pytest-db.md)
   * [End](python-test/end.md)
-* [Fast API](fast-api/README.md)
+* [Fast API](fast-api/README.md)
   * [1. uvicorn](fast-api/1.-uvicorn.md)
   * [2. API Router](fast-api/2.-api-router.md)
   * [3. Error 처리](fast-api/3.-error.md)
