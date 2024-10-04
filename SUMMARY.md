@@ -2,7 +2,7 @@
 
 * [Python](README.md)
   * [1. is 와 == 차이](README/1.-is.md)
-  * [2. str.format 과 f-string](README/2.-str.format-f-string.md)
+  * [2. str.format 과 f-string](README/2.-str.format-f-string.md)
   * [3. 스트라이드와 슬라이스](README/3..md)
   * [4. for/while \~ else](README/4.-for-while-else.md)
   * [5. 디폴트 인자](README/5..md)
@@ -16,7 +16,7 @@
   * [13. Asterisk(\*) 사용팁](README/13.-asterisk.md)
   * [14. 가상환경](README/14..md)
   * [15. pip를 이용한 모듈 설치 및 버전 백업](README/15.-pip.md)
-  * [16. subprocess](README/16.-subprocess.md)
+  * [16. subprocess](README/16.-subprocess.md)
   * [17. 함수와 메서드 차이](README/17..md)
   * [18. Decorator](README/18.-decorator.md)
   * [19. Context manager](README/19.-contextlib.md)
