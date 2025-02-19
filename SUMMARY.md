@@ -43,14 +43,6 @@
   * [7. SQLAlchemy](python/fast-api/7.-sqlalchemy.md)
   * [End](python/fast-api/end.md)
 
-## C / C++
-
-* [Page 1](c-c++/page-1.md)
-
-## Rust
-
-* [Page 2](rust/page-2.md)
-
 ## etc
 
 * [Algorithm](etc/algorithm/README.md)
